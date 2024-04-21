@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958860601290",
+    "project_id": "zzinc-427c4",
+    "storage_bucket": "zzinc-427c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958860601290:android:5ff6ef6c58a6bfe1ead133",
+        "android_client_info": {
+          "package_name": "com.example.zinc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYqCK6s2OBFswW3GAAu6QyYFMXrZFOyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
